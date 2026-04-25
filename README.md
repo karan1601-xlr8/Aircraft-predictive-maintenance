@@ -144,11 +144,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📧 Contact
-
-Project Link: [https://github.com/yourusername/repo-name](https://github.com)
-
----
 
 ## ⭐ Acknowledgments
 
